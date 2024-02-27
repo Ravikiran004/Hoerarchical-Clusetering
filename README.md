@@ -1,0 +1,1 @@
+Learn about hierarchical clustering, a powerful technique for grouping similar data points into clusters. This folder includes explanations, examples, and hands-on exercises using popular Python libraries like scikit-learn to solidify your understanding.
